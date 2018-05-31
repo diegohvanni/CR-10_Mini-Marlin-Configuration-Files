@@ -7,6 +7,7 @@ This configuration file works with marlin 1.1.8
 How to use:
 
 1. Download and extract Marlin (https://github.com/MarlinFirmware/Marlin)
-2. Copy the content of Marlin/example_configurations/Creality/CR-10 to the root of Marlin folder (this is the firmware folder)
-3. Download here the file Configuration.hand replace the one you just copied to Marlin folder root
-5. Flash your printer memory normally
+2. Download here and Extract the file CR-10 Mini.zip
+3. Copy the content of CR-10 Mini.zip to the root of Marlin folder (this is the firmware folder) replacing any file with same name
+4. Flash your printer memory normally and realize a PID Autotune folowing this tutorial: https://www.th3dstudio.com/knowledge-base/p-i-d-auto-tune-guide/
+5. Your CR-10 Mini printer is ready to use.
