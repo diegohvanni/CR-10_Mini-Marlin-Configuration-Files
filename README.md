@@ -1,6 +1,6 @@
 # CR-10_Mini-Marlin-Configuration-Files
 
-Created this configuration.h aiming to let Creality CR-10 Mini close to to stock setup, with amazing print quality.
+Created this configuration files aiming to let Creality CR-10 Mini close to the stock setup, with amazing print quality.
 
 This configuration file works with marlin 1.1.8
 
