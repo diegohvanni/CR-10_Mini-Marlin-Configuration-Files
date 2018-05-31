@@ -1,0 +1,1 @@
+# CR-10_Mini_Configuration.h
